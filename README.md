@@ -111,6 +111,8 @@ Spark ML、原理、床头书、调优、Graphx、pyspark、sparkSQL、yarn集�
 1. [Spark Structured Streaming 编程权威指南](https://zhuanlan.zhihu.com/p/669962566)
 2. [PySpark 安装指南 PySpark DataFrame 、PySpark Pandas Api快速入门权威指南](https://zhuanlan.zhihu.com/p/670390311)
 3. [PySpark Python包管理](https://zhuanlan.zhihu.com/p/680461239)
+4. [Structured Streaming 与 Kafka 集成指南 (适用于 Kafka broker 版本 0.10.0 及以上)](https://zhuanlan.zhihu.com/p/720761514)
+
 
 ### Spark SQL篇
 
