@@ -1,6 +1,5 @@
 # spark ML系列 spark原理 spark源码系列
 
-[toc]
 
 #### 介绍
 Spark ML、原理、床头书、调优、Graphx、pyspark、sparkSQL、yarn集群、源码解析等系列专栏目录
@@ -11,11 +10,6 @@ Spark ML、原理、床头书、调优、Graphx、pyspark、sparkSQL、yarn集�
 
 ![img](https://picx.zhimg.com/80/v2-53d48b7828f09e7de298b72b62317921_720w.png?source=d16d100b)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
 
 1. [【Spark ML系列】Spark Word2Vec原理参数示例源码分析详解](https://zhuanlan.zhihu.com/p/676464941)
 2. [【Spark ML系列】GeneralizedLinearRegression广义线性回归原理用法示例源码权威详解](https://zhuanlan.zhihu.com/p/664799929)
@@ -43,12 +37,7 @@ Spark ML、原理、床头书、调优、Graphx、pyspark、sparkSQL、yarn集�
 ### Spark Graphx系列
 
 ![img](https://pic1.zhimg.com/80/v2-30d86777dca8e7ff16f424c789954807_720w.png?source=d16d100b)
-
-
-
-
-
-添加图片注释，不超过 140 字（可选）
+ 
 
 1. [【Spark graphx 系列】GraphX概述官方权威使用指南](https://zhuanlan.zhihu.com/p/685908467)
 2. [【Spark Graphx 系列】 Graphx Pregel原理方法示例源码论文详解](https://zhuanlan.zhihu.com/p/678378877)
@@ -68,11 +57,7 @@ Spark ML、原理、床头书、调优、Graphx、pyspark、sparkSQL、yarn集�
 
 ![img](https://pic1.zhimg.com/80/v2-d65d7bdf925e123ec59a2108c2fbdbbb_720w.png?source=d16d100b)
 
-
-
-
-
-添加图片注释，不超过 140 字（可选）
+ 
 
 1. [【spark原理系列】Spark Dataset DataFrame原理方法示例源码分析](https://zhuanlan.zhihu.com/p/657269142)
 2. [【spark原理系列】Spark SparkSession由来方法示例源码分析](https://zhuanlan.zhihu.com/p/657336845)
@@ -131,10 +116,7 @@ Spark ML、原理、床头书、调优、Graphx、pyspark、sparkSQL、yarn集�
 ![img](https://picx.zhimg.com/80/v2-ee782a828f6841dc9802c1cc7d8868f6_720w.png?source=d16d100b)
 
 
-
-
-
-添加图片注释，不超过 140 字（可选）
+ 
 
 1. [Spark Dataset DataFrame原理方法示例源码分析](https://zhuanlan.zhihu.com/p/657269142)
 2. [Spark SparkSession由来方法示例源码分析](https://zhuanlan.zhihu.com/p/657336845)
@@ -262,11 +244,4 @@ Spark ML、原理、床头书、调优、Graphx、pyspark、sparkSQL、yarn集�
 
 《[热爱生活、认知生活、裁员潮应对系列](https://zhuanlan.zhihu.com/p/717199536)》
 
-## 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+ 
